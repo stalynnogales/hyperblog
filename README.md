@@ -8,5 +8,6 @@ Blog para el curso de Git y Github
 * El flujo de trabajo de Github
 * El verdadero amor por las buenas prácticas
 * Trucos que nos ayudan con su manejo
+* Creado por el increíble curso Git
 
 Git y Github es un mundo que te facilita el mundo del desarrollo y aporta la pasión que tienes por el mismo.
