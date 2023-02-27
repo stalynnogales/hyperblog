@@ -10,5 +10,6 @@ Blog para el curso de Git y Github
 * Trucos que nos ayudan con su manejo
 * Creado por el increíble curso Git
 * Incluye ejemplos en Windows, linux y MAc
+* Disponible para todas la edades
 
 Git y Github es un mundo que te facilita el mundo del desarrollo y aporta la pasión que tienes por el mismo.
